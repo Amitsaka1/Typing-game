@@ -1,0 +1,7 @@
+{
+  "name": "Bubble Type",
+  "description": "Fast-paced, colorful mobile typing game with falling letter bubbles, 500 progressive levels, combos, and local stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
